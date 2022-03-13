@@ -3,7 +3,7 @@
 
 ##Practica
 ### Enunciado:
-Debemos de resolver las preguntas planteadas en el [notebook de jupyter](https://jupyter.org/) llamado 0-PracticaFinal.ipynb
+Debemos de resolver las preguntas planteadas en el [notebook de jupyter](https://jupyter.org/) llamado [0-PracticaFinal.ipynb](./0-PracticaFinal.ipynb)
 
 ### Resumen de la implementación:
 Hemos realizado las respuestas en un nuevo [notebook de jupyter](https://jupyter.org/) llamado 0-PracticaFinal-Mel(Jorge Melgosa).ipynb
