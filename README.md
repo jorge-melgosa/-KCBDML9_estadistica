@@ -6,4 +6,4 @@
 Debemos de resolver las preguntas planteadas en el [notebook de jupyter](https://jupyter.org/) llamado [0-PracticaFinal.ipynb](./0-PracticaFinal.ipynb)
 
 ### Resumen de la implementación:
-Hemos realizado las respuestas en un nuevo [notebook de jupyter](https://jupyter.org/) llamado [0-PracticaFinal-Mel(Jorge Melgosa).ipynb](./0-PracticaFinal-Mel(Jorge Melgosa).ipynb)
+Hemos realizado las respuestas en un nuevo [notebook de jupyter](https://jupyter.org/) llamado [0-PracticaFinal-Mel(Jorge Melgosa).ipynb](./0-PracticaFinal-Mel(Jorge%20Melgosa).ipynb)
